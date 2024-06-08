@@ -84,7 +84,7 @@ Este projeto está licenciado sob a MIT License. Consulte o arquivo LICENSE para
 
 ## Contato
 
-Para dúvidas ou sugestões, entre em contato com [seu e-mail de contato].
+Para dúvidas ou sugestões, entre em contato com wiliswasunb@gmail.com.
 
 ---
 
